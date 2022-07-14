@@ -1,0 +1,15 @@
+E:\JFF\Code\PigDiceGame\PigDiceGame\bin\Debug\net6.0\PigDiceGame.exe
+E:\JFF\Code\PigDiceGame\PigDiceGame\bin\Debug\net6.0\PigDiceGame.deps.json
+E:\JFF\Code\PigDiceGame\PigDiceGame\bin\Debug\net6.0\PigDiceGame.runtimeconfig.json
+E:\JFF\Code\PigDiceGame\PigDiceGame\bin\Debug\net6.0\PigDiceGame.dll
+E:\JFF\Code\PigDiceGame\PigDiceGame\bin\Debug\net6.0\PigDiceGame.pdb
+E:\JFF\Code\PigDiceGame\PigDiceGame\obj\Debug\net6.0\PigDiceGame.csproj.AssemblyReference.cache
+E:\JFF\Code\PigDiceGame\PigDiceGame\obj\Debug\net6.0\PigDiceGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\JFF\Code\PigDiceGame\PigDiceGame\obj\Debug\net6.0\PigDiceGame.AssemblyInfoInputs.cache
+E:\JFF\Code\PigDiceGame\PigDiceGame\obj\Debug\net6.0\PigDiceGame.AssemblyInfo.cs
+E:\JFF\Code\PigDiceGame\PigDiceGame\obj\Debug\net6.0\PigDiceGame.csproj.CoreCompileInputs.cache
+E:\JFF\Code\PigDiceGame\PigDiceGame\obj\Debug\net6.0\PigDiceGame.dll
+E:\JFF\Code\PigDiceGame\PigDiceGame\obj\Debug\net6.0\refint\PigDiceGame.dll
+E:\JFF\Code\PigDiceGame\PigDiceGame\obj\Debug\net6.0\PigDiceGame.pdb
+E:\JFF\Code\PigDiceGame\PigDiceGame\obj\Debug\net6.0\PigDiceGame.genruntimeconfig.cache
+E:\JFF\Code\PigDiceGame\PigDiceGame\obj\Debug\net6.0\ref\PigDiceGame.dll
